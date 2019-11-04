@@ -1,0 +1,10 @@
+D:\SoftUni\Entity Framework Core\04. Code-First\HospitalDatabase\Hospital Database\bin\Debug\netcoreapp2.2\P01_HospitalDatabase.deps.json
+D:\SoftUni\Entity Framework Core\04. Code-First\HospitalDatabase\Hospital Database\bin\Debug\netcoreapp2.2\P01_HospitalDatabase.runtimeconfig.json
+D:\SoftUni\Entity Framework Core\04. Code-First\HospitalDatabase\Hospital Database\bin\Debug\netcoreapp2.2\P01_HospitalDatabase.runtimeconfig.dev.json
+D:\SoftUni\Entity Framework Core\04. Code-First\HospitalDatabase\Hospital Database\bin\Debug\netcoreapp2.2\P01_HospitalDatabase.dll
+D:\SoftUni\Entity Framework Core\04. Code-First\HospitalDatabase\Hospital Database\bin\Debug\netcoreapp2.2\P01_HospitalDatabase.pdb
+D:\SoftUni\Entity Framework Core\04. Code-First\HospitalDatabase\Hospital Database\obj\Debug\netcoreapp2.2\P01_HospitalDatabase.csprojAssemblyReference.cache
+D:\SoftUni\Entity Framework Core\04. Code-First\HospitalDatabase\Hospital Database\obj\Debug\netcoreapp2.2\P01_HospitalDatabase.AssemblyInfoInputs.cache
+D:\SoftUni\Entity Framework Core\04. Code-First\HospitalDatabase\Hospital Database\obj\Debug\netcoreapp2.2\P01_HospitalDatabase.AssemblyInfo.cs
+D:\SoftUni\Entity Framework Core\04. Code-First\HospitalDatabase\Hospital Database\obj\Debug\netcoreapp2.2\P01_HospitalDatabase.dll
+D:\SoftUni\Entity Framework Core\04. Code-First\HospitalDatabase\Hospital Database\obj\Debug\netcoreapp2.2\P01_HospitalDatabase.pdb
